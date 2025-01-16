@@ -28,7 +28,7 @@ Before you can build the project, make sure you have the following installed:
 ### Build the Project
 
 To build the project from source, follow these steps:
-
+```
 mkdir build
 
 cd build
